@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif))](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 <h1 align="center">Hi 👋, I'm Ravi B. Dhavare</h1>
 <h3 align="center">A passionate Software, Backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://files.codingninjas.in/article_images/java-developers-application-settings-1-1660983825.jpg)">
+<img align="right" alt="Coding" width="400" src="https://files.codingninjas.in/article_images/java-developers-application-settings-1-1660983825.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravidhavare111&label=Profile%20views&color=0e75b6&style=flat" alt="ravidhavare111" /> </p>
