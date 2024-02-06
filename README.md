@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Spring Boot Frelancing Project**
 
-- 🌱 I’m currently learning **Advanced DSA, Java, Sprong Boot framework.**
+- 🌱 I’m currently learning **Advanced DSA, Java, Spring Boot framework.**
 
 - 🤝 I’m looking for help with **Spring and Spring Boot Framework**
 
