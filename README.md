@@ -4,15 +4,15 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 
 
-- 🔭 I’m currently working on **Web Scraper Project based on Java**
+- 🔭 I’m currently working on **Spring Boot Frelancing Project**
 
 - 🌱 I’m currently learning **Advanced DSA, Java, Sprong Boot framework.**
 
-- 🤝 I’m looking for help with **Spring Boot Framework**
+- 🤝 I’m looking for help with **Spring and Spring Boot Framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ravidhavare111](https://github.com/ravidhavare111)
 
-- 💬 Ask me about **DSA, Advanced DSA, Java**
+- 💬 Ask me about **DSA, Advanced DSA, Java, Spring Boot**
 
 - 📫 How to reach me **www.linkedin.com/in/ravi-dhavare-85b515104**
 
