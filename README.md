@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **www.linkedin.com/in/ravi-dhavare-85b515104**
 
-- 📄 Know about my experiences [www.linkedin.com/in/ravi-dhavare-85b515104](www.linkedin.com/in/ravi-dhavare-85b515104)
+- 📄 Know about my experiences **www.linkedin.com/in/ravi-dhavare-85b515104**
 
 - ⚡ Fun fact **😄**
 
