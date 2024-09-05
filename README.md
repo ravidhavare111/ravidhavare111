@@ -4,21 +4,19 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 
 
-- 🔭 I’m currently working on **Spring Boot Frelancing Project**
+- 🔭 I am Java Developer, having 2+ years of experince in Building Dynamic web applications and Restful web services using Java, Spring Boot, Microservices, etc.
+- I’m currently working on **RestAPI Payment System Project using Spring Boot**
 
-- 🌱 I’m currently learning **Advanced DSA, Java, Spring Boot framework.**
+- 🌱 I have handson practice in **DSA, Java, Spring Boot and Microservices**
 
-- 🤝 I’m looking for help with **Spring and Spring Boot Framework**
+- 🤝 I’m looking for **Java Developer role**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ravidhavare111](https://github.com/ravidhavare111)
+- 👨‍💻 All of my work and projects are available at [https://github.com/ravidhavare111](https://github.com/ravidhavare111)
 
-- 💬 Ask me about **DSA, Advanced DSA, Java, Spring Boot**
+- 💬 Ask me about **DSA, Java, Spring Boot**
 
-- 📫 How to reach me **www.linkedin.com/in/ravi-dhavare-85b515104**
-
-- 📄 Know about my experiences **www.linkedin.com/in/ravi-dhavare-85b515104**
-
-- ⚡ Fun fact **😄**
+- 📫 You can reach me at **www.linkedin.com/in/ravi-dhavare-85b515104**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
