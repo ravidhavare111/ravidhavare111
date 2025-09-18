@@ -6,15 +6,15 @@
 
 
 - 🔭 I am Java Developer, having 2+ years of experince in Building Dynamic web applications and Restful web services using Java, Spring Boot, Microservices, etc.
-- I’m currently working on **RestAPI Payment System Project using Spring Boot**
+- I’m currently working on **AI Microservices based project & Stripe API Payment Integration Project**
 
 - 🌱 I have handson practice in **DSA, Java, Spring Boot and Microservices**
 
-- 🤝 I’m looking for **Java Developer role**
+- 🤝 I’m looking for **Java Backend Developer role**
 
 - 👨‍💻 All of my work and projects are available at [https://github.com/ravidhavare111](https://github.com/ravidhavare111)
 
-- 💬 Ask me about **DSA, Java, Spring Boot**
+- 💬 Ask me about **Java, Spring Boot, Microservices, Design Principles**
 
 - 📫 You can reach me at **www.linkedin.com/in/ravi-dhavare-85b515104**
 - 
